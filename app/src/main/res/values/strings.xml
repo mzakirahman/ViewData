@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ViewData</string>
+    <string name="btn_list_view">Tampilkan Listview</string>
+    <string-array name="jurusan">
+        <item>Teknik Informatika</item>
+        <item>Bahasa</item>
+        <item>Teknik Perkapalan</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Elektro</item>
+        <item>Administrasi Niaga</item>
+        <item>Teknik Sipil</item>
+        <item>Kemaritiman</item>
+    </string-array>
+    <string name="gambar_buah">Gambar Buah</string>
+    <string name="nama_buah">Nama Buah</string>
+    <string name="btn_recyler_view">Tampilkan Recyclerview</string>
+    <string name="title_activity_recyler">RecylerActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
